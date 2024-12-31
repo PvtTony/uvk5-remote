@@ -1,0 +1,5 @@
+numpy
+pillow
+PyQt6
+pyserial-asyncio
+qasync
